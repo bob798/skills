@@ -1,20 +1,13 @@
 ---
+ name: article-writer 
+ description: Transforms personal experience, observations, and raw ideas into structured, theory-backed, persuasive articles. Use this skill when the user wants to write an article but doesn't know how to organize it, has ideas but lacks a framework, or wants to turn rough experience into polished insight-driven content. Trigger immediately when user says 帮我写文章, 写公众号, 整理思路, 把这个写成文章, write an article, help me write, or turn this into content. Always run a structured interview BEFORE writing — never skip the interview stage.
+---
 
-name: article-writer description: | Transforms personal experience, observations, and raw ideas into structured, theory-backed, persuasive articles. Use this skill when the user wants to write an article but doesn't know how to organize it, has ideas but lacks a framework, or wants to turn rough experience into polished insight-driven content.
-
-Trigger immediately when the user says: 帮我写文章, 写公众号, 整理思路, 把这个写成文章, 我想写, 帮我整理, write an article, help me write, turn this into content, I want to publish this.
-
-## The skill runs a structured interview BEFORE writing — do not skip the interview stage even if the user provides substantial context upfront.
-
-# Article Writer Skill
+# Article Writer
 
 将原始经验和观察，转化为高质量的思想型文章。
 
-## 核心理念
-
 **好文章 = 真实经验（只有你有）× 清晰框架（可以学会）× 理论背书（查找获得）**
-
----
 
 ## 工作流程
 
@@ -26,8 +19,6 @@ Step 4  用户自定义      ← 风格/细节/禁区
 Step 5  输出文章        ← 完整草稿
 Step 6  系列规划        ← 如有需要
 ```
-
----
 
 ## Step 1：采集原材料（必须完成再写）
 
@@ -42,30 +33,25 @@ Step 6  系列规划        ← 如有需要
 3. 大多数人对这件事的误解是什么？
 4. 只让读者记住一句话，你希望是哪一句？
 
-**选问（按内容类型）：**
+**选问：**
 
 - 有数据或案例支撑吗？
-- 这是你独有的洞察，还是已有人说过？
 - 目标读者是谁？他们现在什么认知层级？
 - 发布平台和字数限制？
 
 **原则：** 先掏内容再给框架 · 追问激活隐性知识 · 用户原话原样保留进文章
 
----
-
 ## Step 2：选择写作模式
 
-|模式|适用|核心机制|
+读取 `references/writer-patterns.md` 了解三种模式的详细骨架和示例。
+
+|模式|适用场景|核心机制|
 |---|---|---|
 |**Gladwell 模式**|强反直觉观点|反直觉钩子 → 案例 → 机制揭示|
 |**PG 模式**|探索性反思|思维过程可见，结论是「发现」|
 |**Thompson 模式**|行业分析/系列|框架建立 → 推导 → 可验证预测|
 
-详细模板 → 读取 `references/writer-patterns.md`
-
-**高质量长文混合推荐：** 开场 Gladwell（钩子）→ 中段 PG（信任）→ 结尾 Thompson（框架+预测）
-
----
+高质量长文混合推荐：开场 Gladwell → 中段 PG → 结尾 Thompson
 
 ## Step 3：四层内容填充
 
@@ -78,37 +64,23 @@ Step 6  系列规划        ← 如有需要
 
 理论速查 → 读取 `references/theory-bank.md`
 
----
-
 ## Step 4：用户自定义
 
-```
-□ 风格偏好（严肃/对话/幽默/克制）
-□ 可披露的具体细节（数字/时间/人物）
-□ 已确定的结论（不需要推导的部分）
-□ 禁区（不想涉及的内容）
-□ 平台和字数要求
-```
-
----
+确认后再写：风格偏好（严肃/对话/幽默/克制）· 可披露细节 · 已确定结论 · 禁区 · 平台和字数
 
 ## Step 5：输出文章
 
 标题原则：
 
-- Gladwell：具体名词 + 意外转折 → 「那个修钢琴的人，教会了我关于 AI 的一切」
-- PG：直接说出洞察 → 「你以为在管团队，其实在管信息」
-- Thompson：框架名 + 冒号 → 「协作语言论：AI 时代产研关系的重构」
+- Gladwell：具体名词 + 意外转折 →「那个修钢琴的人，教会了我关于 AI 的一切」
+- PG：直接说出洞察 →「你以为在管团队，其实在管信息」
+- Thompson：框架名 + 冒号 →「协作语言论：AI 时代产研关系的重构」
 
 结尾原则：不用「总结」，用一个让读者带走的开放问题。
-
----
 
 ## Step 6：系列规划（如需要）
 
 输出：系列名 · 叙事弧线（破认知→建危机感→给出路）· 5-7篇结构 · 每篇论点+理论+上下篇连接点
-
----
 
 ## 注意事项
 
@@ -116,3 +88,7 @@ Step 6  系列规划        ← 如有需要
 - 用户原话不改写
 - 理论每篇最多3处，每处2句以内
 - 结尾留问题不收束
+
+## Keywords
+
+写文章, 公众号, 内容创作, article writing, content creation, insight, personal brand
