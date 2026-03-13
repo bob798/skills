@@ -118,8 +118,11 @@ Skills that improve reasoning.
 | Skill | Category | Description |
 |------|------|------|
 | job-seeker-resume-cn | career | Chinese resume optimization |
+| article-illustrator | creative | SVG illustrations for articles and visual communication |
 | decision-tree | thinking | structured decision making |
 | product-analysis | business | product strategy analysis |
+| svg-generator | creative | user-goal-first SVG generation workflow |
+| svg-to-png | utility | reliable SVG to PNG conversion with tool fallbacks |
 
 ---
 
