@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "job-seeker-resume-cn/SKILL.md",
+                "file": "learn-anything/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -256,6 +256,17 @@
   },
   "active": "c98958259fa1ade4",
   "lastOpenFiles": [
+    "learn-anything/README.md",
+    "ai-job-transition-resume/SKILL.md",
+    "ai-job-transition-resume/README.md",
+    "ai-job-transition-resume/references/ai-project-templates.md",
+    "ai-job-transition-resume/references/ai-jd-keywords.md",
+    "svg-to-png/SKILL.md",
+    "README.md",
+    "svg-generator/SKILL.md",
+    "svg-generator/references/svg-types.md",
+    "svg-generator/references/svg-brief-template.md",
+    "job-seeker-resume-cn/SKILL.md",
     "article-writer/SKILL.md",
     "article-illustrator/SKILL.md",
     "article-writer/references/writer-patterns.md",
@@ -263,8 +274,6 @@
     "article-illustrator/README.md",
     "article-illustrator/references/svg-templates.md",
     "article-writer/README.md",
-    "README.md",
-    "job-seeker-resume-cn/SKILL.md",
     "job-seeker-resume-cn/README.md.md",
     "job-seeker-resume-cn/references/resume-templates-cn.md",
     "job-seeker-resume-cn/references/power-verbs-cn.md",

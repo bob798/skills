@@ -117,7 +117,9 @@ Skills that improve reasoning.
 
 | Skill | Category | Description |
 |------|------|------|
-| job-seeker-resume-cn | career | Chinese resume optimization |
+| job-seeker-resume-cn | career | Chinese resume optimization for general job market |
+| ai-job-transition-resume | career | Resume optimization for AI engineer / AI pre-sales roles |
+| learn-anything | learning | Structured learning path for any technology or skill |
 | article-illustrator | creative | SVG illustrations for articles and visual communication |
 | decision-tree | thinking | structured decision making |
 | product-analysis | business | product strategy analysis |
