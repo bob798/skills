@@ -117,14 +117,24 @@ Skills that improve reasoning.
 
 | Skill | Category | Description |
 |------|------|------|
+| rag-evaluator | AI engineering | Diagnose RAG pipeline issues across retrieval, generation, and consistency layers |
+| prompt-optimizer | AI engineering | Identify root causes of prompt failures and apply structured fixes |
+| agent-designer | AI engineering | Design ReAct / Plan-Execute / Multi-Agent architectures with failure handling |
+| llm-debugger | AI engineering | Debug LLM apps in production: API errors, rate limits, token overflow, streaming |
+| vector-db-guide | AI engineering | Vector DB selection and usage: Chroma, Milvus, pgvector, Qdrant compared |
+| langchain-patterns | AI engineering | Core LangChain patterns: LCEL, RAG chain, memory, agents with real code |
+| ai-solution-designer | AI engineering | Design AI solutions with scenario evaluation, architecture, risk and ROI analysis |
+| mock-interview | career | Generate high-value interview questions with answer frameworks based on resume + JD |
 | job-seeker-resume-cn | career | Chinese resume optimization for general job market |
 | ai-job-transition-resume | career | Resume optimization for AI engineer / AI pre-sales roles |
+| product-analysis | business | Multi-dimensional product strategy analysis (user / solution / business / competition / risk) |
+| decision-tree | thinking | Structured decision making with explicit recommendations |
+| deep-analysis | thinking | Multi-perspective Self-Debate iteration: generate → critique → refine, loops until score ≥ 8 |
 | learn-anything | learning | Structured learning path for any technology or skill |
 | article-illustrator | creative | SVG illustrations for articles and visual communication |
-| decision-tree | thinking | structured decision making |
-| product-analysis | business | product strategy analysis |
-| svg-generator | creative | user-goal-first SVG generation workflow |
-| svg-to-png | utility | reliable SVG to PNG conversion with tool fallbacks |
+| article-writer | creative | Structured article generation |
+| svg-generator | creative | User-goal-first SVG generation workflow |
+| svg-to-png | utility | Reliable SVG to PNG conversion with tool fallbacks |
 
 ---
 
